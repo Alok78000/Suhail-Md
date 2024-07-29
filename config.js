@@ -78,7 +78,7 @@ module.exports = {
   packname: process.env.PACK_NAME || "",
   botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "Suhail",
-TF
+
 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
